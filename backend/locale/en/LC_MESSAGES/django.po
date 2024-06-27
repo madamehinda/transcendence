@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+
+msgid "Connexion"
+msgstr "Login"
+
+msgid "Nom d'utilisateur"
+msgstr "Username"
+
+msgid "Mot de passe"
+msgstr "Password"
+
+msgid "Entrez votre nom d'utilisateur"
+msgstr "Enter your username"
+
+msgid "Entrez votre mot de passe"
+msgstr "Enter your password"
+
+msgid "Changer la langue"
+msgstr "Change Language"
+
+msgid "Vous n'avez pas de compte ? Créez-en un"
+msgstr "Don't have an account? Create one"
+
+msgid "ici"
+msgstr "here"
+
+msgid "Envoyer"
+msgstr "Submit"
+
+
+#: templates/register.html
+msgid "Inscription"
+msgstr "Register"
+
+msgid "Prénom"
+msgstr "First Name"
+
+msgid "Nom de famille"
+msgstr "Last Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Confirmez votre mot de passe"
+msgstr "Confirm Password"
+
+msgid "Vous avez déjà un compte ? Connexion"
+msgstr "Already have an account? Login"
+
+msgid "Entrez votre prénom"
+msgstr "Enter your first name"
+
+msgid "Entrez votre nom de famille"
+msgstr "Enter your last name"
+
+msgid "Entrez votre email"
+msgstr "Enter your email"
+
+
+msgid "Menu Latéral"
+msgstr "Sidebar"
+
+msgid "Jeux"
+msgstr "Games"
+
+msgid "Paramètres"
+msgstr "Settings"
+
+msgid "Déconnexion"
+msgstr "Logout"
+
+msgid "Languages"
+msgstr "Languages"
+
+msgid "Accueil"
+msgstr "Home"
+
+msgid "A propos"
+msgstr "About"
+
+msgid "Se connecter"
+msgstr "Login"
+
+msgid "Connexion via 42"
+msgstr "Login via 42"
+
+msgid "Amis"
+msgstr "Friends"
+
+msgid "Choisissez votre jeu !"
+msgstr "Choose your game!"
+
+msgid "Pong vs Amis"
+msgstr "Pong vs Friends"
+
+msgid "Partie"
+msgstr "Game"
+
+msgid "Tournoi"
+msgstr "Tournament"
+
+msgid "Activer l'authentification à 2 facteurs"
+msgstr "Enable 2-factor authentication"
+
+msgid "Vous avez deja un compte? Connectez-vous"
+msgstr "Already have an account? Login"
+
+msgid "Sauvegarder"
+msgstr "Save"
+

@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ug\n"
+
+
+msgid "Connexion"
+msgstr "ئۇلىنىش"
+
+msgid "Inscription"
+msgstr "تىزىملىتىش"
+
+msgid "Nom d'utilisateur"
+msgstr "ئىشلەتكۈچى ئىسمى"
+
+msgid "Prénom"
+msgstr "ئىسمى"
+
+msgid "Nom"
+msgstr "فامىلىسى"
+
+msgid "Nom de famille"
+msgstr "فامىلىسى"
+
+msgid "Email"
+msgstr "ئېلېكترونلۇق خەت"
+
+msgid "Mot de passe"
+msgstr "پارول"
+
+msgid "Confirmer votre mot de passe"
+msgstr "پارولنى جەزملەشتۈرۈڭ"
+
+#: templates/login.html
+msgid "Entrez votre nom d'utilisateur"
+msgstr "ئىشلەتكۈچى ئىسمىڭىزنى كىرگۈزۈڭ"
+
+msgid "Entrez votre prénom"
+msgstr "ئىسمىڭىزنى كىرگۈزۈڭ"
+
+msgid "Entrez votre nom de famille"
+msgstr "فامىلىڭىزنى كىرگۈزۈڭ"
+
+msgid "Entrez votre email"
+msgstr "ئېلېكترونلۇق خەت ئادرېسىڭىزنى كىرگۈزۈڭ"
+
+msgid "Entrez votre mot de passe"
+msgstr "پارولىڭىزنى كىرگۈزۈڭ"
+
+msgid "Confirmez votre mot de passe"
+msgstr "پارولىڭىزنى جەزملەشتۈرۈڭ"
+
+msgid "Changer la langue"
+msgstr "تىلنى ئۆزگەرتىڭ"
+
+msgid "Vous n'avez pas de compte ? Créez-en un"
+msgstr "ھېساباتىڭىز يوقمۇ؟ بىرنى قۇر"
+
+msgid "Vous avez déjà un compte ? Connexion"
+msgstr "ھېساباتىڭىز بارمۇ؟ ئۇلىنىش"
+
+msgid "ici"
+msgstr "بۇ يەردە"
+
+msgid "Envoyer"
+msgstr "يوللاڭ"
+
+msgid "Déconnexion"
+msgstr "ئۇلىنىشنى تاقاش"
+
+msgid "Languages"
+msgstr "تىللار"
+
+msgid "Accueil"
+msgstr "باش بەت"
+
+msgid "Profil"
+msgstr "پروفىلىڭىز"
+
+msgid "Jeux"
+msgstr "ئويۇنلار"
+
+msgid "Amis"
+msgstr "دوستلار"
+
+msgid "A propos"
+msgstr "ھەققىدە"
+
+msgid "Se connecter"
+msgstr "ئۇلىنىش"
+
+msgid "Connexion via 42"
+msgstr "42 ئارقىلىق ئۇلىنىش"
+
+msgid "Paramètres"
+msgstr "تەڭشەكلەر"
+
+msgid "Choisissez votre jeu !"
+msgstr "ئويۇن تاللاڭ!"
+
+msgid "Pong Solo"
+msgstr "تەكلىپ پونگ"
+
+msgid "Pong vs Amis"
+msgstr "دوستلارغا قارشى پونگ"
+
+msgid "Memory"
+msgstr "يادلاش"
+
+msgid "Partie" 
+msgstr "ئويۇن"
+
+msgid "Tournoi"
+msgstr "تۆرنى"
+
+msgid "Activer l'authentification à 2 facteurs"
+msgstr "ئىككىلىك ئۇچۇر ئۇچۇرلىق ئېلان قىلىش"
+
+msgid "Sauvegarder"
+msgstr "ساقلاش"
+
+msgid "Vous avez deja un compte? Connectez-vous"
+msgstr "ھېساباتىڭىز بارمۇ؟ ئۇلىنىش"
+
+
+

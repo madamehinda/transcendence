@@ -1,0 +1,95 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% trans "resultat" %}</title>
+    <link rel="stylesheet" href="{% static 'css/page_finale.css' %}">
+    <meta name="csrf-token" content="{{ csrf_token }}">
+
+</head>
+
+<body>
+    <!-- <header class="header">
+        <ul id="menu-demo2">
+            <li><a href="#">Languages</a>
+                <ul>
+                    <li><a href="/fr/">Français</a></li>
+                    <li><a href="/en/">English</a></li>
+                    <li><a href="/ug/">ئۇيغۇرچە</a></li>
+                    <li><a href="/ar/">العربية</a></li>
+                </ul>
+            </li>
+            <li><a href="#logout">Deconnexion</a>
+            </li>
+        </ul>
+    </header>
+
+    <video id="video-bg" autoplay muted loop>
+        <source src="{% static 'videos/video.mp4' %}" type="video/mp4">
+        <source src="{% static 'videos/video.webm' %}" type="video/webm">
+        Your browser does not support the video tag.
+    </video>
+
+    <!-- Titre en haut de la page -->
+    <div class="movement-container">
+        <h1 class="framed-title">{% trans "FIN DE PARTIE!" %}</h1>
+        <div class="gamevs">
+            <div class="user" id="player1">
+                <div class="user1">
+                    <img id="avatar-user1" src="{% static 'img/imen.jpeg' %}" alt="User Avatar">
+                </div>
+                <div class="username1" id="username1">{{ request.user.username }}</div>
+                <div class="score1" id="score1"></div>
+            </div>
+            <div class="user" id="player2">
+                <div class="user2">
+                    <img id="avatar-user2" src="{% static 'img/hinda.jpeg' %}" alt="User Avatar">
+
+                </div>
+                <div class="username2" id="player2-username"> {{ request.player2.username }}</div>
+                <div class="score2" id="score2"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; ft_transcendence 2024 </p>
+    </div>
+
+
+    <div class="sidebar" id="mySidebar">
+        <div class="avatar-container">
+            <a href="#profil">
+                <img id="avatar" src="{{ request.user.avatar.url }}" alt="User Avatar" class="avatar">
+            </a>
+            <span id="userLogin" class="username">{{request.user.username}}</span>
+        </div>
+        <div class="links-container">
+            <a href="#accueil" class="auth-link">
+                <i class="fas fa-home"></i> Accueil
+            
+            </a>
+            <a href="#games_page" class="auth-link">
+                <i class="fas fa-gamepad"></i> Jeux 
+            
+            </a>
+            <a href="#account_settings" class="auth-link">
+                <i class="fas fa-cogs"></i>  Paramètres
+            
+            </a>
+            <a href="#friends" class="auth-link">
+                <i class="fas fa-user-tie"></i> Amis
+            </a>
+            <a href="#about_us" class="auth-link">
+                <i class="fas fa-info-circle"></i> A propos
+              
+            </a>  
+    </div>
+
+</body>
+
+</html>
